@@ -1,8 +1,8 @@
 # OnafriqAssignment2
-##Restful-Booker 
+** Restful-Booker **
 This script automates the process of creating, retrieving, and updating bookings using the Restful Booker API. (https://restful-booker.herokuapp.com/apidoc/index.html)
 
-##Prerequisites
+** Prerequisites **
 Before running the script, ensure you have the following:
 
 Python 3.x installed on your machine
@@ -12,7 +12,7 @@ To install the requests library, run:
 ```sh
 pip install requests
 ```
-Script Overview
+** Script Overview **
 The script performs the following actions:
 
 Authenticate to obtain a token.
@@ -26,5 +26,5 @@ Clone the Repository
 Run 
 Open a terminal or command prompt, navigate to the directory containing the Booker.py file, and run:
 ```sh
-python Booker.py*
+python Booker.py
 
