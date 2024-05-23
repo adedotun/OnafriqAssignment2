@@ -26,5 +26,5 @@ Clone the Repository
 Run 
 Open a terminal or command prompt, navigate to the directory containing the Booker.py file, and run:
 ```sh
-python Booker.py
+python main.py
 
