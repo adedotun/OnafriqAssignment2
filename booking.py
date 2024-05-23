@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 class BookingPage:
     base_url = "https://restful-booker.herokuapp.com"
 
